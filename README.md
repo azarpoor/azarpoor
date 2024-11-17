@@ -14,7 +14,7 @@ This is Amir
 ---
 ### 🗂️ Previous Experience
   
-- **Enterprise Wallet Systems & Reaserch**  
+- **Enterprise Wallet Systems & Research**  
   - 💼 Worked as Software Engineer & Blockchain Researcher for more than 3 years in a high-scale crypto exchanges environment, focusing on on-chain privacy, scaling up the wallet format of platform, and building innovative things :).
 - **Smartcontract Engineering**
   - 💼 Worked as Smart contract Enginner in large scale NFT market place.
